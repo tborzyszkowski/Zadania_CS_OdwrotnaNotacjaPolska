@@ -5,7 +5,7 @@ Bazując na definicji stosów z poprzedniego zadania,
 napisać testu funkcji `evalRPN`, która pobiera napis będący zapisem wyrażenia arytmetycznego 
 w Odwrotnej Notacji Polskiej (RPN). Dopuszczalne wyrażenia to:
 - liczba całkowita, np. `1`, `12`, `997`
-- operacje dwuargumentowe dodawanie, mnożenie, odejmowanie (już są) i dzielenie (już jest ale nie ma reakcji na błędy
+- operacje dwuargumentowe dodawanie, mnożenie, odejmowanie (już są) i dzielenie (już jest ale nie ma reakcji na błędy)
 - operacje jednoargumentowe: np. silnia czy wartość bezwzględna (lub dowolna inna operacja jednoargumentowa)
 
 Nie należy zapominać, że nie wszystkie ciągi powyższych znaków są poprawnym 
@@ -18,7 +18,7 @@ która będzie poprawnie wyliczała wyrażenia RPN opisane powyżej
 oraz reagowała na niepoprawne wyrażenia. Metoda powinna przejść wszystkie testy 
 opisane w Zadaniu 1.
 
-## Termin oddania: 22-23.10.2020 (zajęcia w 43 tygodniu)
+## Termin oddania: 22-23.10.2020 (zajęcia danej grupy w 43 tygodniu roku)
 Przekroczenie terminu o *n* zajęć wiąże się z karą:
 - punkty uzyskania za realizację zadania są dzielone przez *2<sup>n</sup>*.
 
