@@ -18,7 +18,7 @@ która będzie poprawnie wyliczała wyrażenia RPN opisane powyżej
 oraz reagowała na niepoprawne wyrażenia. Metoda powinna przejść wszystkie testy 
 opisane w Zadaniu 1.
 
-## Termin oddania: 22-23.10.2020 (zajęcia danej grupy w 43 tygodniu roku)
+## Termin oddania: 31.10.2020 (zajęcia danej grupy w 44 tygodniu roku)
 Przekroczenie terminu o *n* zajęć wiąże się z karą:
 - punkty uzyskania za realizację zadania są dzielone przez *2<sup>n</sup>*.
 
