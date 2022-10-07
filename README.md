@@ -2,7 +2,7 @@
 
 | Termin oddania      | Punkty     |
 |---------------------|:-----------|
-|    21.05.2022 23:00 |   10        |
+|    21.10.2022 23:00 |   10        |
 
 --- 
 Przekroczenie terminu o **n** zajęć wiąże się z karą:
@@ -34,3 +34,5 @@ Zaimplementować metodę `evalRPN` w klasie `RPN`,
 która będzie poprawnie wyliczała wyrażenia RPN opisane powyżej 
 oraz reagowała na niepoprawne wyrażenia. Metoda powinna przejść wszystkie testy 
 opisane w Zadaniu 1.
+
+## UWAGA: Rozwiązanie powinno być zbudowane zgodnie z zasadami SOLID.
