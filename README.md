@@ -35,4 +35,5 @@ która będzie poprawnie wyliczała wyrażenia RPN opisane powyżej
 oraz reagowała na niepoprawne wyrażenia. Metoda powinna przejść wszystkie testy 
 opisane w Zadaniu 1.
 
-## UWAGA: Rozwiązanie powinno być zbudowane zgodnie z zasadami SOLID.
+## UWAGA
+Rozwiązanie powinno być zbudowane zgodnie z zasadami SOLID.
