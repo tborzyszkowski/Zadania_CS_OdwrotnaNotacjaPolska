@@ -2,7 +2,7 @@
 
 | Termin oddania      | Punkty     |
 |---------------------|:-----------|
-|    21.10.2022 23:00 |   10        |
+|    23.10.2022 23:00 |   10        |
 
 --- 
 Przekroczenie terminu o **n** zajęć wiąże się z karą:
@@ -12,7 +12,7 @@ Przekroczenie terminu o **n** zajęć wiąże się z karą:
 
 
 ## Zadanie 1 (Red)
-Bazując na definicji stosów z poprzedniego zadania,
+Bazując na zadanej definicji stosów,
 napisać testu funkcji `evalRPN`, która pobiera napis będący zapisem wyrażenia arytmetycznego 
 w Odwrotnej Notacji Polskiej (RPN). Dopuszczalne wyrażenia to:
 - liczba całkowita, np. `1`, `12`, `997`
@@ -36,4 +36,4 @@ oraz reagowała na niepoprawne wyrażenia. Metoda powinna przejść wszystkie te
 opisane w Zadaniu 1.
 
 ## UWAGA
-Rozwiązanie powinno być zbudowane zgodnie z zasadami SOLID.
+Rozwiązanie powinno być zbudowane zgodnie z zasadami [SOLID](https://www.samouczekprogramisty.pl/solid-czyli-dobre-praktyki-w-programowaniu-obiektowym/).
